@@ -11,7 +11,8 @@ Tracking analysis tools for interfacing with EM connectomics datasets
 ## Feature extraction and processing
 - [pcg_skel](https://github.com/AllenInstitute/pcg_skel): package for quickly making skeletons from PyChunkedGraph representations.
 - [skeleton_keys](https://github.com/AllenInstitute/skeleton_keys): tools for computing morphological features from skeletons, similar to how this is done for PatchSeq neurons.
-   - Requires access to the Allen Institute internal LIMS system (?)
+   - Requires access to the Allen Institute internal LIMS system for some features
+   - Depends on [neuron_morphology](https://github.com/alleninstitute/neuron_morphology/tree/dev) for some computations
 
 ## Visualization
 - [skeleton_plot](https://github.com/AllenInstitute/skeleton_plot): package for plotting skeletons (with annotations) in Matplotlib.
