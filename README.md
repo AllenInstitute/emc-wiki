@@ -17,4 +17,5 @@ Tracking analysis tools for interfacing with EM connectomics datasets
 ## Visualization
 - [skeleton_plot](https://github.com/AllenInstitute/skeleton_plot): package for plotting skeletons (with annotations) in Matplotlib.
 - [TrimeshVtk](https://github.com/AllenInstitute/TrimeshVtk): tools for creating neuron visualizations in VTK.
-   - In the process of splitting these visualization tools out from MeshParty.     
+   - In the process of splitting these visualization tools out from MeshParty.
+- [nglui](https://github.com/seung-lab/NeuroglancerAnnotationUI): tools for generating neuroglancer links programatically.
